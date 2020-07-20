@@ -1,2 +1,2 @@
 # Aplikacja-prawo-jazdy
-Polski egzamin teoretyczny na prawo jazdy
+Aplikacja w formie pytań i odpowiedzi, które obejmuje polski egzamin teoretyczny na prawo jazdy.
